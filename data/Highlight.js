@@ -1,0 +1,22 @@
+export const Highlight = [
+  {
+    image:
+      "https://images.pexels.com/photos/445109/pexels-photo-445109.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  },
+  {
+    image:
+      "https://images.pexels.com/photos/853151/pexels-photo-853151.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  },
+  {
+    image:
+      "https://images.pexels.com/photos/301952/pexels-photo-301952.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  },
+  {
+    image:
+      "https://images.pexels.com/photos/307847/pexels-photo-307847.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  },
+  {
+    image:
+      "https://images.pexels.com/photos/214576/pexels-photo-214576.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  },
+];
